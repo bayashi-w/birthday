@@ -1,5 +1,3 @@
-from turtle import right
-from unicodedata import name
 import streamlit as st
 from PIL import Image
 import time
